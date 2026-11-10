@@ -28,8 +28,8 @@ These examples describe my professional work, not results achieved by the reposi
 | Global sourcing | Secured $1.5M+ in savings through a global sourcing bid across the UK, Canada, and US. |
 | Commercial analysis | Executed a separate global bid that reduced projected spend from $16M to $11M. |
 | Business launch support | Sourced and negotiated suppliers across 13 categories for a new remarketing business line, contributing to an estimated 10% margin improvement valued at $6.2M. |
-| Hands-on buying | Managed purchasing across 1,600+ components and 45+ vendors. |
-| Procurement data | Supported validation of 50,000 vendor records ahead of an Oracle ERP launch and led classification of $50M+ in previously unclassified spend. |
+| Hands-on buying | Managed purchasing across 1,600+ components and 45+ vendors maintaining On time delivery (OTD) by 95%. |
+| Procurement data | Supported validation of 50k vendor records ahead of an Oracle ERP launch and led classification of $50M+ in previously unclassified spend. |
 | AI-enabled procurement | Built sourcing-research workflows, a spend-analysis chatbot, supplier-risk dashboards, and contract/RFP analysis tools. |
 
 Projected spend reductions and estimated margin improvements are not presented as realized savings. Past results do not guarantee future outcomes.
