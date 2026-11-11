@@ -40,7 +40,7 @@ My experience spans CPG and wellness, medical devices, automotive and industrial
 
 ## Technical toolkit
 
-Python, SQL, Excel/VBA, Power BI, Tableau, Microsoft Power Automate, Perplexity, and API-enabled workflows. Tool selection depends on the client's requirements, permissions, and operating environment.
+Python, Java, SQL, Excel/VBA, Power BI, Tableau, Microsoft Power Automate, Perplexity, Replit, and API-enabled workflows. Tool selection depends on the client's requirements, permissions, and operating environment.
 
 ## Education and credentials
 
@@ -52,9 +52,11 @@ Python, SQL, Excel/VBA, Power BI, Tableau, Microsoft Power Automate, Perplexity,
 
 ## How I work
 
-Clear scope, documented assumptions, measurable outcomes, and human review for consequential decisions. Any public examples should use example data or material approved for disclosure. Employer and client confidential information is not part of a public deliverable.
+Follow the Systems Engineering Process: Requirements Gathering to develop a clear scope, documented assumptions, measurable outcomes. Next is development where I demonstrate how each requirement gets met using a mix of Agile and Lean methodologies. We round this out by launching what the lifecycle management of the product is and what continuous improvement will look like. 
 
-The reusable email-to-RFx reporting workflow is an optional, separately scoped pilot service - not a claim that a production implementation is available in this repository.
+Any public examples is example data or material approved for disclosure. Employer and client confidential information is not part of any public deliverable.
+
+The reusable email-to-RFx reporting workflow is an optional product for my Upwork Listing & is a separately scoped pilot service. 
 
 ---
 
